@@ -1,2 +1,2 @@
-# gaitaware
+# GaitAware
 Initial Description
